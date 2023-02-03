@@ -1,0 +1,8 @@
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\bin\Debug\Math Shape Library.exe.config
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\bin\Debug\Math Shape Library.exe
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\bin\Debug\Math Shape Library.pdb
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\obj\Debug\Math Shape Library.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\obj\Debug\Math Shape Library.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\obj\Debug\Math Shape Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\obj\Debug\Math Shape Library.exe
+D:\Visual Studio\repos\Math Shape Library\Math Shape Library\obj\Debug\Math Shape Library.pdb
